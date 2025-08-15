@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Bem-vindo ao meu perfil GitHub 👋</h1>
 
-<!--
-**Aurelio-C/Aurelio-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🙋‍♂️ Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Cursando Inteligencia Artificial na Fatesg-Senai-Go
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+Python
+
+Excel
+---
+
+## 📬 Entre em Contato
+
+Gmail -- aureliocomunello.ia@gmail.com
+
+  <strong>✨ Obrigado por visitar meu perfil!</strong><br/>
+  Veja meus projetos e fique à vontade para entrar em contato!
+</p>
