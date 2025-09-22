@@ -1,33 +1,31 @@
-# 👋 Olá! Me chamo Aurélio Comunello Carneiro
+👋 Olá! Me chamo Aurélio Comunello Carneiro
+<p align="left"> <a href="mailto:aureliocomunello.ia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> </p>
 
-<p align="left"> 
-  <a href="mailto:aureliocomunello.ia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  </a>
-</p>
-
-Sou um entusiasta de tecnologia e dados, atualmente aprofundando meus conhecimentos no campo da **Inteligência Artificial** através da minha graduação na **FATESG SENAI em Goiás**. Meu objetivo é aplicar a análise de dados e a automação para solucionar problemas complexos e gerar insights valiosos.
+Sou entusiasta de tecnologia e dados, atualmente aprofundando meus conhecimentos no campo da **Inteligência Artificial** durante minha graduação na **FATESG SENAI Goiás**. Tenho como objetivo aplicar análise de dados e automação para solucionar problemas complexos e gerar insights valiosos.
 
 ---
-
 ### 🧠 Sobre Mim
-
-- 🎓 Cursando **Inteligência Artificial** na [FATESG SENAI](https://portalfatesg.com.br/).
-- 💻 Foco em desenvolver soluções que unem a robustez do **Python**
-- 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos práticos, especialmente nas áreas de Machine Learning, automação de processos e análise de dados.
-- 📫 Aberto para colaborações e novas conexões. Sinta-se à vontade para entrar em contato!
+🎓 Graduando em **Inteligência Artificial** na **FATESG SENAI**
+<br>
+💻 Foco em desenvolver soluções robustas com **Python**
+<br>
+🚀 Interesse em projetos práticos de **Machine Learning**, **automação de processos** e **análise de dados**
+<br>
+📫 Sempre aberto a colaborações e novas conexões.
 
 ---
-
 ### 🛠️ Tecnologias e Ferramentas
 
-Minha jornada em IA está sendo construída com base nas seguintes tecnologias:
+Minha jornada em IA está sendo construída com:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-95B700?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
-
 ### 📬 Contato
-
-**E-mail:** [aureliocomunello.ia@gmail.com](mailto:aureliocomunello.ia@gmail.com)
+E-mail: `aureliocomunello.ia@gmail.com`
